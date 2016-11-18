@@ -1,11 +1,18 @@
 header{
   float: right;
+
 }
 
 .main{
   text-align: center;
+  font-family: 'Lobster', cursive;
 }
 
 ul {
   list-style: none;
+  text-align: center;
+}
+
+li{
+  display: inline;
 }
